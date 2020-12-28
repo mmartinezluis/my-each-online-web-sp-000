@@ -9,10 +9,6 @@ def my_each(array) # put argument(s) here
     end
     array
   else
-    
+    "This block should not run!"
   end
 end
-
-#my_each(array) do |i|
-#  puts i
-#end
